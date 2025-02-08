@@ -21,6 +21,14 @@
     background-color: turquoise;
 }
 
+h1 {
+    width: 50%;
+    font-size: 30px;
+    border: 5px dotted blueviolet;
+    float: left;
+}
+
+
 h4 {
     color: #000;
 }
@@ -48,18 +56,23 @@ h4 {
 .w3-container nav nav {
     background-color: #abc;
     height: 25px;
-;
-
-
 }
 
 .w3-container nav {
     align-content: center;
-    b
-
 }
 
-.horizontal-rule {
+.w3-container nav a {
+}
 
+.bbc-welcome-2 {
+border: 8px solid greenyellow;
+width: 46%;
+font-size: 50px;
+float: right;
+clear: right;
+}
 
+.canvas-below {
+    background-color: #dad;
 }
