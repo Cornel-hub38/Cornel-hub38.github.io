@@ -1,0 +1,65 @@
+
+
+.navbar {
+
+    margin: 0;
+    padding: 20px;
+    color: #fff;
+
+}
+
+
+.navbar {
+
+
+}
+.home {
+    background-color: #faf;
+}
+
+.w3-container {
+    background-color: turquoise;
+}
+
+h4 {
+    color: #000;
+}
+
+.nav-links {
+    color: #fff;
+    list-style-type: none;
+}
+
+.w3-container nav   ul li  {
+    display: inline;
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.w3-container nav ul li a {
+    color: #000;
+    text-decoration: none;
+}
+
+.w3-container nav ul li a:hover {
+    color: #dfa;
+}
+.w3-container nav nav {
+    background-color: #abc;
+    height: 25px;
+;
+
+
+}
+
+.w3-container nav {
+    align-content: center;
+    b
+
+}
+
+.horizontal-rule {
+
+
+}
