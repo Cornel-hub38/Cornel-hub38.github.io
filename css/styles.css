@@ -14,11 +14,11 @@
 
 }
 .home {
-    background-color: #faf;
+    color: #faf;
 }
 
 .w3-container {
-    background-color: turquoise;
+    color: turquoise;
 }
 
 h1 {
@@ -36,6 +36,11 @@ h4 {
 .nav-links {
     color: #fff;
     list-style-type: none;
+}
+
+.w3-container {
+    background-color: turquoise;
+    margin: 5px 20px 10px 20px;
 }
 
 .w3-container nav   ul li  {
@@ -66,6 +71,7 @@ h4 {
 }
 
 .bbc-welcome-2 {
+
 border: 8px solid greenyellow;
 width: 46%;
 font-size: 50px;
@@ -75,4 +81,9 @@ clear: right;
 
 .canvas-below {
     background-color: #dad;
+}
+
+.navbar-inner {
+
+
 }
