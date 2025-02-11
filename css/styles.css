@@ -4,7 +4,7 @@
 
     margin: 0;
     padding: 20px;
-    color: #fff;
+    background-color: #ffff33;
 
 }
 
@@ -15,7 +15,9 @@
 }
 .home {
     color: #faf;
-    font-size: 12rem;
+    font-size: 2rem;
+    margin: 0;
+    padding: 0;
 }
 
 .w3-container {
@@ -27,7 +29,7 @@ h1 {
     font-size: 30px;
     border: 5px dotted blueviolet;
     float: left;
-    font-size: 4.5em;
+    font-size: 1.5em;
 }
 
 
@@ -86,6 +88,11 @@ clear: right;
 }
 
 .navbar-inner {
+    display: block;
+    float: right;
 
+}
+
+.unordered-links {
 
 }
